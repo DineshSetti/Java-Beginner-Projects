@@ -1,5 +1,5 @@
 # Java-Beginner-Projects
-Explore a variety of simple, hands-on Java projects ideal for beginners. Sharpen your coding skills while creating command-line applications, games, and practical tools in Java. Perfect for those new to programming or looking to learn Java.
+Explore a variety of simple, hands-on Java projects ideal for beginners. Sharpen your coding skills while creating command-line applications, games, and practical tools in Java. Perfect for those new to programming or looking to learn Java..
 
 ## Project List
 
